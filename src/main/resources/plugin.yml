@@ -1,0 +1,3 @@
+name: untitled
+version: '${project.version}'
+main: org.xvideos.untitled.Untitled
